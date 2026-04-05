@@ -8,7 +8,7 @@ Hola, me llamo Alejandro, tengo 29 años y vivo en Rafael Castillo, La Matanza. 
 
 Desde siempre me interesó la tecnología y la computación, pero no fue hasta que decidí estudiar esta carrera que me metí de lleno en el tema. Me gusta pensar cada problema como un desafío a resolver y usar la lógica para encontrar soluciones.
 
-A futuro, mi objetivo es mejorar mis habilidades en programación para poder dedicarme a este campo y conseguir un trabajo en el área de desarrollo de software.
+A futuro, mi objetivo es mejorar mis habilidades en programación para poder dedicarme a este campo y conseguir un trabajo en el área de desarrollo de software
 
 
 ### Otra Información
